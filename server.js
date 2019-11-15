@@ -36,4 +36,4 @@ ProductAPIS(app);
 ReviewAPIS(app);
 PurchaseAPIS(app);
 
-app.listen(8085);
+app.listen(process.env.PORT || 8080;);
