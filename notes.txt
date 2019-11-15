@@ -1,0 +1,3 @@
+backend : 
+npm init
+npm install express mongoose express-session uuid cookie-parser cors 
